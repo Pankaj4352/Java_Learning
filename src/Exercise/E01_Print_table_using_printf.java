@@ -1,6 +1,6 @@
 package Exercise;
 
-public class E01_Print_Number_using_printf {
+public class E01_Print_table_using_printf {
     public static void main(String[] args) {
         int num=9;
         System.out.printf("%d x 1 = %d \n",num, num);
@@ -13,8 +13,6 @@ public class E01_Print_Number_using_printf {
         System.out.printf("%d x 1 = %d \n",num, num*8);
         System.out.printf("%d x 1 = %d \n",num, num*9);
         System.out.printf("%d x 1 = %d \n",num, num*10);
-
-
 
     }
 }
